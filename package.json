@@ -1,0 +1,13 @@
+{
+  "name": "shalini-portfolio",
+  "version": "1.0.0",
+  "description": "Shalini Jha's Professional Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": ["portfolio", "web-development", "machine-learning", "digital-marketing"],
+  "author": "Shalini Jha",
+  "license": "MIT"
+}
